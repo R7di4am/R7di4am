@@ -1,7 +1,7 @@
 
 ---
 
-# Hi there 👋 I'm R7di4am 
+# Hi there 👋 I'm R7di4am Just A Noob 😁
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fff&width=720&lines=Hi%2C+I%27m+R7di4am.++I+am+working+as+a+Back-End+Developer)](https://git.io/typing-svg)
 
