@@ -7,10 +7,6 @@
 
 ---
 
-![Wave GIF](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
-
----
-
 ### 🚀 About Me:
 - 👨‍💻 **Backend Developer** with a passion for building robust, scalable systems.
 - ⚡ Fun fact: I enjoy solving complex problems through code and creativity, but please don't ask me to code front-end... that's where I draw the line 😄
